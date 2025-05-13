@@ -1,4 +1,4 @@
-MYTAH
+MYTAH (windows)
 
 Hello, my name is Alessio Hettiarachchige and this is MYTAH, my very first "app" for Windows!
 
